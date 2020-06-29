@@ -1,8 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeSettings">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DataStructure" targetName="DataStructure" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79d150a7-e041-4694-be6f-df2904f83092" name="Default Changelist" comment="快速排序">
+      <change afterPath="$PROJECT_DIR$/mergesort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dz4xP28KAivmvi55JFlHM5JFE9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DataStructure" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="DataStructure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="DataStructure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79d150a7-e041-4694-be6f-df2904f83092" name="Default Changelist" comment="" />
+      <created>1593414833795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593414833795</updated>
+      <workItem from="1593414834919" duration="642000" />
+      <workItem from="1593421409162" duration="945000" />
+      <workItem from="1593442824311" duration="300000" />
+    </task>
+    <task id="LOCAL-00001" summary="快速排序">
+      <created>1593415500997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593415500997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="快速排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="快速排序" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="396" key="#Notifications" timestamp="1593415478679">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state x="773" y="396" key="#Notifications/0.25.1792.1012@0.25.1792.1012" timestamp="1593415478679" />
+    <state x="753" y="436" key="Github.ShareDialog" timestamp="1593414888773">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state x="753" y="436" key="Github.ShareDialog/0.25.1792.1012@0.25.1792.1012" timestamp="1593414888773" />
+    <state x="683" y="233" key="Github.UntrackedFilesDialog" timestamp="1593414897029">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state x="683" y="233" key="Github.UntrackedFilesDialog/0.25.1792.1012@0.25.1792.1012" timestamp="1593414897029" />
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom" timestamp="1593415519764">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom/0.25.1792.1012@0.25.1792.1012" timestamp="1593415519764" />
+    <state width="1750" height="273" key="GridCell.Tab.0.center" timestamp="1593415519764">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.center/0.25.1792.1012@0.25.1792.1012" timestamp="1593415519764" />
+    <state width="1750" height="273" key="GridCell.Tab.0.left" timestamp="1593415519764">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.left/0.25.1792.1012@0.25.1792.1012" timestamp="1593415519764" />
+    <state width="1750" height="273" key="GridCell.Tab.0.right" timestamp="1593415519764">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.right/0.25.1792.1012@0.25.1792.1012" timestamp="1593415519764" />
+    <state width="1750" height="236" key="GridCell.Tab.1.bottom" timestamp="1593415519761">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="236" key="GridCell.Tab.1.bottom/0.25.1792.1012@0.25.1792.1012" timestamp="1593415519761" />
+    <state width="1750" height="236" key="GridCell.Tab.1.center" timestamp="1593415519760">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="236" key="GridCell.Tab.1.center/0.25.1792.1012@0.25.1792.1012" timestamp="1593415519760" />
+    <state width="1750" height="236" key="GridCell.Tab.1.left" timestamp="1593415519760">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="236" key="GridCell.Tab.1.left/0.25.1792.1012@0.25.1792.1012" timestamp="1593415519760" />
+    <state width="1750" height="236" key="GridCell.Tab.1.right" timestamp="1593415519760">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="236" key="GridCell.Tab.1.right/0.25.1792.1012@0.25.1792.1012" timestamp="1593415519760" />
+    <state x="496" y="269" key="Vcs.Push.Dialog.v2" timestamp="1593415508823">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.25.1792.1012@0.25.1792.1012" timestamp="1593415508823" />
   </component>
 </project>
