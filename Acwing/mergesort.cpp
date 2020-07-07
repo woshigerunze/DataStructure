@@ -13,7 +13,7 @@ void merge_sort(vector<int>& v,int l,int r)
     merge_sort(v,mid+1,r);
     int i=l;
     int j=mid+1;
-    int k=0l;
+    int k=0;
     while(i<=mid&&j<=r)
         if(v[i]<=v[j])temp[k++]=v[i++];
         else temp[k++]=v[j++];
