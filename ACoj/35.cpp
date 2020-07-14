@@ -35,5 +35,5 @@ public:
             second=third;
         }
         return first;
-    }
+    }//
 };
