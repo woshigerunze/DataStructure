@@ -49,7 +49,7 @@ int main()
     vector<int> dp(volume+1,0);
     for(int i=0;i<weight.size();i++)
     {
-        for (int j = volume+1; j >= 1; j--)
+        for (int j = volume; j >= 1; j--)
         {
             if (j >= weight[i])dp[j] = max(dp[j], dp[j - weight[i]] + value[i]);
         }

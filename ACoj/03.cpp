@@ -16,6 +16,5 @@ int main()
             dp[j] = max(dp[j], dp[j - weight[i]] + value[i]);
         }
     }
-    for(auto& elem : dp)cout<<elem<<" ";
 }
 
