@@ -4,6 +4,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+
 int main()
 {
     vector<int> weight{1,2,3,4};
